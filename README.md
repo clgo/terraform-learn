@@ -1,2 +1,2 @@
 # terraform-learn
-Learning Terrafrom
+Learning Terraform
